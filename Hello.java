@@ -5,5 +5,7 @@ public class Hello{
 	System.out.println("what is git?");
 	System.out.println("what!!!!!!");
 	System.out.println("What's DVCS?");
+	System.out.printiln("Distributed Version Control system");
+>>>>>>> sist
 }
 }
